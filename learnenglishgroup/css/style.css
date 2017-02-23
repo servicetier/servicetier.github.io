@@ -89,12 +89,12 @@ body { background: #edeae3; font-family: sans-serif; color: #383838; text-align:
 		header { overflow: hidden; clear: both; margin-bottom: 30px; }
 		
 			header hgroup { float: left; }
-				header hgroup h1 { font-size: 40px; text-transform: uppercase; text-shadow: 1px 1px 0 #fff; }
-				header hgroup h2 { font-size: 26px; text-shadow: 1px 1px 0 #fff; font-weight: normal; }
+				header hgroup h2 { font-size: 10px; text-transform: none; text-shadow: 1px 1px 0 #fff; font-weight: normal; }
+				header hgroup h1 { font-size: 45px; text-shadow: 1px 1px 0 #fff; }
 			
 			header nav { float: right; margin: 24px 0 0 0; }
 				header nav ul { margin: 0; padding: 0; overflow: hidden; }
-					header nav ul li { list-style: none; float: left; display: inline; margin: 0; padding: 0; border-right: 1px solid #938a78; font-size: 18px; text-transform: uppercase; }
+					header nav ul li { list-style: none; float: left; display: inline; margin: 0; padding: 0; border-right: 1px solid #938a78; font-size: 18px; text-transform: none; }
 					header nav ul li:last-child { border: 0; }
 						header nav ul li a { 
 							display: block; 
